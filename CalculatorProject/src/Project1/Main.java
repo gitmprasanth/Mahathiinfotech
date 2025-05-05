@@ -9,6 +9,7 @@ public class Main {
 	}
 	static void start() {
 		Scanner sc=new Scanner(System.in);
+		System.out.print("CALCULATOR SYSTEM\n1.Press-1 for ADDITION \n2.Press-2 for SUBRACTION \n3.Press-3 for MULTIPLICATION\n4.Press-4 for DIVISION \n5.Press 0 for exit\n");
 		System.out.println("Enter the Operation:");
 
 		try {
